@@ -18,7 +18,7 @@ Vy Nguyen (nvy24@uw.edu)
 [Modecraft Dataset](https://docs.google.com/spreadsheets/d/14JpdZtBkG8mJtfRjrk01R-sQ1WPGgLJXKzZThHx-Zi8/edit?usp=sharing)
 
 
-🕒 **Overview**
+## Overview
 We participated in a **34-hour data hackathon** where we were challenged to help Modecraft — a global ecommerce store — uncover actionable insights to increase their online revenue.
 
 ### Our Goals:
@@ -27,7 +27,7 @@ We participated in a **34-hour data hackathon** where we were challenged to help
 - Develop interactive data visualizations that tell a clear, compelling story  
 - Propose data-backed recommendations for growing Modecraft’s sales
 
-🔧 **Tools Used**
+## Tools Used
 
 **Data Cleaning:**
 - Google Sheets / Microsoft Excel  
