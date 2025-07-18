@@ -53,8 +53,6 @@ We cleaned the dataset individually using both Python (in Google Colab) and Exce
 - Standardized Product Name values  
 - Ensured proper formatting for date and time fields
 
-![Data Cleaning Screenshot](https://github.com/user-attachments/assets/7bbaffd4-e8e0-4f07-9f01-8f08343cf4b9)
-
 ## Key Business Questions We Answered
 
 ### Seasonality & Time Trends
