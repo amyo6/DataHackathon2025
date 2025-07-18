@@ -7,8 +7,8 @@ Vy Nguyen (nvy24@uw.edu)
 Industry/Business Problem we Will Analyze:
 Retail - Accelerating the Sales of the Modecraft Ecommerce Store
 
-Live Website:
-🔗 https://avclubdatathon.netlify.app/
+Additional Presentation:
+🔗 [Slides](https://docs.google.com/presentation/d/1yDQcFMRH7naa-LOqvFEFqCYHMODQoQ8TQbU729rOLCI/edit?usp=sharing)
 
 Data Source:
 📊 [Google Sheet Dataset](https://docs.google.com/spreadsheets/d/14JpdZtBkG8mJtfRjrk01R-sQ1WPGgLJXKzZThHx-Zi8/edit?usp=sharing)
