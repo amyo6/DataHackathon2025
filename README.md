@@ -85,8 +85,4 @@ We built a **fully interactive website** that allows users to:
 - Explore time-based and regional trends  
 - Gain insights from intuitive visualizations
 
-**Visit Our Website:**  
-[https://avclubdatathon.netlify.app/](https://avclubdatathon.netlify.app/)
-
-
 🔗 [Visit Our Site](https://avclubdatathon.netlify.app/) 
