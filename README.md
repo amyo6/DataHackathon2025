@@ -27,7 +27,7 @@ We participated in a **34-hour data hackathon** where we were challenged to help
 - Develop interactive data visualizations that tell a clear, compelling story  
 - Propose data-backed recommendations for growing Modecraft’s sales
 
-🔧 ## Tools Used
+## Tools Used
 
 **Data Cleaning:**
 - Google Sheets / Microsoft Excel  
@@ -42,7 +42,7 @@ We participated in a **34-hour data hackathon** where we were challenged to help
 - Hosted on Netlify
 
 
-🧹 ## Data Cleaning Process
+## Data Cleaning Process
 We cleaned the dataset individually using both Python (in Google Colab) and Excel, and then merged our findings to finalize a clean version for analysis.  
 
 ### Key Steps Included:
@@ -55,7 +55,7 @@ We cleaned the dataset individually using both Python (in Google Colab) and Exce
 
 ![Data Cleaning Screenshot](https://github.com/user-attachments/assets/7bbaffd4-e8e0-4f07-9f01-8f08343cf4b9)
 
-❓ ## Key Business Questions We Answered
+## Key Business Questions We Answered
 
 ### Seasonality & Time Trends
 - Are there seasonal spikes in purchases for specific products?  
@@ -79,7 +79,7 @@ We cleaned the dataset individually using both Python (in Google Colab) and Exce
 - Total revenue generated
 
 
-📈 ## Final Deliverable
+## Final Deliverable
 We built a **fully interactive website** that allows users to:
 - View monthly and product-specific sales reports  
 - Explore time-based and regional trends  
